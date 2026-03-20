@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "1. Generación Automática + Cobertura + Mutation Analysis"
             }
-          },
-          {
-            "id": "cdf9798603aae40f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "drawings/Drawing 2026-03-16 19.47.19.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-16 19.47.19.excalidraw"
-            }
           }
         ]
       }
@@ -182,11 +170,11 @@
   },
   "active": "03af68f7836b8153",
   "lastOpenFiles": [
+    "drawings/Drawing 2026-03-16 19.47.19.excalidraw.md",
+    "1. Generación Automática + Cobertura + Mutation Analysis.md",
     "assets/Pasted image 20260316222429.png",
     "assets/Pasted image 20260316222323.png",
     "assets",
-    "drawings/Drawing 2026-03-16 19.47.19.excalidraw.md",
-    "1. Generación Automática + Cobertura + Mutation Analysis.md",
     "drawings",
     "Logo.png",
     "Practicas",
@@ -227,7 +215,6 @@
     "assets/Pasted image 20250915025620.png",
     "assets/Pasted image 20250914232648.png",
     "assets/Pasted image 20250725125843.png",
-    "assets/Pasted image 20250725124643.png",
     "Untitled.canvas"
   ]
 }
